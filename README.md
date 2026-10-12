@@ -47,7 +47,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/nguyenthanhhai13012003/](https://www.facebook.com/hainee/" target="blank">
+  <a href="https://www.facebook.com/hainee/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hainguyen130103-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/h%E1%BA%A3i-nguy%E1%BB%85n-5355a431a/" target="blank">
@@ -64,7 +64,7 @@
 <br>
 <p>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://facebook.com/nguyenthanhhai13012003/" target="_blank">https://facebook.com/nguyenthanhhai13012003/](https://www.facebook.com/hainee/</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://facebook.com/nguyenthanhhai13012003/" target="_blank">https://www.facebook.com/hainee/</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="hai263672@gmail.com" target="_top">hai263672@gmail.com</a></strong>
 </p>
