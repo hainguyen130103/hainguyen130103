@@ -57,11 +57,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hainguyen130103-email" />
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
