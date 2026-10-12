@@ -62,12 +62,6 @@
 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
-<p>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://facebook.com/nguyenthanhhai13012003/" target="_blank">https://www.facebook.com/hainee/</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="hai263672@gmail.com" target="_top">hai263672@gmail.com</a></strong>
-</p>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
